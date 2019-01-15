@@ -1,0 +1,17 @@
+fieldset{
+    display:flex;
+    flex-direction: column;
+}
+
+label{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+input {
+    font-size:1.3em;
+}
+
+select {
+    font-size:1.3em;
+}
